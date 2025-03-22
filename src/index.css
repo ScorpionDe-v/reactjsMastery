@@ -38,3 +38,7 @@ body::-webkit-scrollbar{
 button{
   font-weight: bold;
 }
+
+div{
+  margin: 5px;
+}

@@ -1,12 +1,12 @@
 import react from 'react';
-import Movies from './MovieZone/Movies';
+import Form from './Components/Form';
 
 const App = () => {
+  
   return (
     <>
-    <Movies/>  
+      <Form />
     </>
   );
 }
-
 export default App;
